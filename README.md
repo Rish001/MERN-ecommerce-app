@@ -46,9 +46,9 @@ Features:
   
   ![Image](react-node-ecommerce-master/IMAGES/Capture_ecom_3.PNG) 
   
-  ![Image](react-node-ecommerce-master/IMAGES/capture_ecom_4.PNG)
+  ![Image](react-node-ecommerce-master/IMAGES/capture_ecom_4.png)
   
-  ![Image](react-node-ecommerce-master/IMAGES/capture_ecom_5.PNG) 
+  ![Image](react-node-ecommerce-master/IMAGES/capture_ecom_5.png) 
 
 
 
